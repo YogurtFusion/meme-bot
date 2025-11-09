@@ -1,3 +1,6 @@
 content/
-
+__pycache__/
+*.pyc 
 .env
+.env.local
+.last__posted.json
